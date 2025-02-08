@@ -15,11 +15,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/imama-ansari-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imama-ansari" height="30" width="40" /></a>
-  <a href="https://instagram.com/style_with_imama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="style-with-imama" height="30" width="40" /></a>
-</p>
+<a href="https://linkedin.com/in/imama-ansari-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imama-ansari" height="30" width="40" /></a>
+<a href="https://instagram.com/style_with_imama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="style-with-imama" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100071349639175" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="imama ansari" height="30" width="40" /></a>
-<a href="https://twitter.com/imamaathar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imamaathar" height="30" width="40" /></a>
+<a href="https://twitter.com/imamaathar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imamaathar" height="30" width="40" /></a></p>
 
 
 
