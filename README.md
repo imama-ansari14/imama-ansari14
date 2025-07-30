@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/736x/c4/c6/96/c4c696d43555c08f806375759e1b7528.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imama-ansari14&label=Profile%20views&color=0e75b6&style=flat" alt="imama-ansari14" /> </p>
-- 🔭 I’m currently working on **Type Script**
+- 🔭 I’m currently working on **SupaBase**
 
 - 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/imama-ansari14/sites](https://app.netlify.com/teams/imama-ansari14/sites)
 
