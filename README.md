@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/imama-ansari14/sites](https://app.netlify.com/teams/imama-ansari14/sites)
 
-- 💬 Ask me about **HTML, CSS, Bootstrap , JavaScript, TypeScript, SupaBase**
+- 💬 Ask me about **HTML, CSS, Bootstrap , JavaScript, TypeScript, SupaBase, C++**
 
 - 📫 How to reach me **ansariimama@yahoo.com**
 
