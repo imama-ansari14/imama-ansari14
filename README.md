@@ -1,7 +1,6 @@
- <img src="https://media.licdn.com/dms/image/v2/D5616AQF-kR1BwNeg6g/profile-displaybackgroundimage-shrink_350_1400/B56ZXYHLt1GsAc-/0/1743087517722?e=1748476800&v=beta&t=WgStfRz3jRftZoj_u-qgj_psazMyNGPxp4fNzA08MX4" alt="hi" width="100%"> 
-<h1 align="left">Hi 👋, I'm Imama Ansari</h1>
+<h1 align="center">Hi 👋, I'm Imama Ansari</h1>
 
-## 🚀 About Me
+<h1>🚀 About Me</h1> 
 
 I'm a **passionate Full Stack Web Developer** from Pakistan, dedicated to crafting seamless digital experiences.  
 With a strong foundation in modern web technologies, I transform ideas into reality through clean code and innovative solutions.
@@ -19,7 +18,7 @@ With a strong foundation in modern web technologies, I transform ideas into real
 - 📫 How to reach me **ansariimama@yahoo.com**
 - 📄 Know about my experiences [https://www.linkedin.com/in/imama-ansari-5a604b337](https://www.linkedin.com/in/imama-ansari-5a604b337)
 
-## 💼 Tech Stack
+<h1>💼 Tech Stack</h1> 
 
 ### 🎨 Frontend  
 <p align="left">
@@ -72,7 +71,7 @@ With a strong foundation in modern web technologies, I transform ideas into real
   </a>
 </p>
 
-## 📊 GitHub Statistics
+<h1>📊 GitHub Statistics</h1> 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=imama-ansari14&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
 </div>
@@ -80,18 +79,49 @@ With a strong foundation in modern web technologies, I transform ideas into real
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=imama-ansari14&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Contribution Graph" />
 </div>
 
-## 🏆 GitHub Trophies
+<h1> 🏆 GitHub Trophies</h1> 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=imama-ansari14&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/imama-ansari-5a604b337/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imama-ansari" height="30" width="40" /></a>
-<a href="https://instagram.com/style_with_imama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="style-with-imama" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100071349639175" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="imama ansari" height="30" width="40" /></a>
-<a href="https://twitter.com/imamaathar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imamaathar" height="30" width="40" /></a></p>
+<h1> 🌐 Connect With Me</h1>
+<br />
+<div align="center">
+  <a href="https://www.linkedin.com/in/imama-ansari-5a604b337/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  
+  <a href="https://instagram.com/style_with_imama" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" width="45" alt="Instagram"/>
+  </a>
+  &nbsp;&nbsp;
+  
+  <a href="https://twitter.com/imamaathar" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" width="45" alt="Twitter"/>
+  </a>
+  &nbsp;&nbsp;
+  
+  <a href="https://www.facebook.com/profile.php?id=100071349639175" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" width="45" alt="Facebook" style="background:white; border-radius:8px; padding:4px;"/>
+  </a>
+</div>
+
+---
+
+<h1> ✨ Final Note</h1>
+<h3> Thank you for visiting my GitHub! ⭐ </h3> 
+I’m always open to **collaborations, freelance projects, and networking**.  
+Feel free to reach out via **Email or LinkedIn**.  
+
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
 
 
 
-
+<div align="center">
+  <p style="color:#D9B3FF; font-size:16px;">
+    🚀 Let's build something amazing together!  
+    <a href="mailto:ansariimama@yahoo.com" style="color:#AF69ED;">Contact Me</a>
+  </p>
+</div>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=800080,4B0082&height=120&section=footer" width="100%"/>
