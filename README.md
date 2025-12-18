@@ -110,12 +110,6 @@ With a strong foundation in modern web technologies, I transform ideas into real
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=imama-ansari14&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Contribution Graph" />
 </div>
-
-<h1> 🏆 GitHub Trophies</h1> 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=imama-ansari14&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</div>
-
 ---
 
 <h1> 🌐 Connect With Me</h1>
