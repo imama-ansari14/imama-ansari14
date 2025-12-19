@@ -110,6 +110,7 @@ With a strong foundation in modern web technologies, I transform ideas into real
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=imama-ansari14&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Contribution Graph" />
 </div>
+
 ---
 
 <h1> 🌐 Connect With Me</h1>
